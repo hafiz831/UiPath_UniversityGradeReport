@@ -114,7 +114,7 @@
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Chrome_Extraction" sap:VirtualizedContainerService.HintSize="400,1668.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
+          <Sequence DisplayName="Chrome_Extraction_module" sap:VirtualizedContainerService.HintSize="400,1665.6" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
